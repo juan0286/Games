@@ -5,5 +5,6 @@ null,
 {"id":3,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Ropa","note":"","params":[0,0,0,10,0,0,0,0],"price":300},
 {"id":4,"atypeId":1,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Anillo","note":"","params":[0,0,0,0,10,0,0,0],"price":300},
 {"id":5,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":136,"name":"Cuero Endurecido","note":"","params":[0,0,0,50,0,0,0,0],"price":50},
-{"id":6,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Coraza","note":"","params":[0,0,0,75,0,0,-30,0],"price":75}
+{"id":6,"atypeId":4,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":137,"name":"Coraza","note":"","params":[0,0,0,75,0,0,-30,0],"price":75},
+{"id":7,"atypeId":1,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Ropa de Rediant","note":"","params":[0,0,0,30,0,0,20,0],"price":500}
 ]
