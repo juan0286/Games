@@ -7,6 +7,6 @@ null,
 {"id":5,"expanded":true,"name":"MAP005","order":4,"parentId":0,"scrollX":532,"scrollY":663},
 {"id":6,"expanded":true,"name":"MAP0Mel","order":6,"parentId":0,"scrollX":918.8571428571428,"scrollY":494.57142857142856},
 {"id":7,"expanded":false,"name":"MAP00Mel_abierto","order":7,"parentId":6,"scrollX":2441.142857142857,"scrollY":494.57142857142856},
-{"id":8,"expanded":false,"name":"MAPAGUERRA","order":8,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"MAPAGUERRA","order":8,"parentId":0,"scrollX":929.1428571428571,"scrollY":523.7142857142857},
 {"id":9,"expanded":false,"name":"MAPdeMel","order":9,"parentId":0,"scrollX":832,"scrollY":640}
 ]
